@@ -1,5 +1,0 @@
-#disregard this file, it's uploaded by mistake
-User-agent: *
-Allow: /
-
-Sitemap: https://webschool.jp/sitemap.xml

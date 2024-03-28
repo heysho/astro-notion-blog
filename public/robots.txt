@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
+Allow: /posts/
+Disallow: /templates/
+Disallow: /help/
+Disallow: /experiment/
 
 Sitemap: https://webschool.jp/sitemap.xml
